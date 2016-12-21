@@ -21,7 +21,8 @@ The PCB is home etched and drilled on my DIY CNC machine.
 Soldering is done with an ERSA soldering iron.
 The front panel is created from black acrylic which is CNC machined as well.
 I’ve used a white pen with a fine tip to fill in the engraved font.
-Have a look at the wiki for further informations.
+
+Have a look at the wiki for further informations on building this module.
 
 
 IMPORTANT
